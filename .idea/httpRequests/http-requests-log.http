@@ -1,0 +1,30 @@
+GET http://localhost:8080/employees/1
+
+<> 2022-09-27T144504.404.json
+
+###
+
+GET http://localhost:8080/employees/1
+
+<> 2022-09-27T144459.404.json
+
+###
+
+GET http://localhost:8080/employees
+
+<> 2022-09-27T144441.404.json
+
+###
+
+GET http://localhost:8080/employees
+
+<> 2022-09-27T144436.404.json
+
+###
+
+GET http://localhost:8080/employees
+
+<> 2022-09-27T144435.404.json
+
+###
+
